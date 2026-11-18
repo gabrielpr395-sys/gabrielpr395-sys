@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou Gabryel Reis</h1>
+<h1 align="center">Olá! Eu sou Gabrel Reis</h1>
 
 <h3 align="center">Estudante de Programação | Aspirante a Desenvolvedor</h3>
 

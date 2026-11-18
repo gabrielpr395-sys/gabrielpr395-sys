@@ -35,11 +35,6 @@ Olá! Sou Gabryel Reis, estudante e entusiasta da tecnologia, iniciando minha jo
 
 ---
 
-<p align="center">
-  <i>"A jornada de mil linhas de código começa com a primeira."</i>
-</p>
-
-
 <!--
 **gabrielpr395-sys/gabrielpr395-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

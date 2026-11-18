@@ -18,7 +18,7 @@ Olá! Sou Gabryel Reis, estudante e entusiasta da tecnologia, iniciando minha jo
 ### Tecnologias e ferramentas em desenvolvimento
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,git,github,vscode" />
 </div>
 
 ### Meus objetivos

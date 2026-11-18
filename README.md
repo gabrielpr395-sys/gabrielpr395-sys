@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou Gabrel Reis</h1>
+<h1 align="center">Olá! Eu sou Gabryel Reis</h1>
 
 <h3 align="center">Estudante de Programação | Aspirante a Desenvolvedor</h3>
 
@@ -15,10 +15,10 @@ Olá! Sou Gabryel Reis, estudante e entusiasta da tecnologia, iniciando minha jo
 - Interesse em Inteligência Artificial e desenvolvimento de software.
 - Buscando aprender e evoluir na programação.
 
-### Tecnologias e ferramentas
+### Tecnologias e ferramentas em desenvolvimento
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
 </div>
 
 ### Meus objetivos
